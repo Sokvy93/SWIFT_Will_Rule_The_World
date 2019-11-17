@@ -12,3 +12,4 @@ class ViewController: UIViewController {
         
         diceImageView1.image = #imageLiteral(resourceName: "DiceSix")
         diceImageView1.alpha = 0.5
+        diceImageView2.image = #imageLiteral(resourceName: "DiceTwo")
