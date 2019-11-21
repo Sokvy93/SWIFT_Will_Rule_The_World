@@ -24,3 +24,4 @@ class ViewController: UIViewController {
     }
 }
 
+//Be sure to set pins and constraints right for landscape mode as well. 
