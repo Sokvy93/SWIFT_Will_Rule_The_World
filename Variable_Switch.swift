@@ -8,4 +8,4 @@ b = c       //b=5
 
 print("a: \(a)")
 print("b: \(b)")
-// \() turn normal stings to function.
+// \() let variable inserted within string 
