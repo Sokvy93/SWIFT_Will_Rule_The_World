@@ -1,4 +1,3 @@
-//Don't change this code:
 func calculator() {
   let a = Int(readLine()!)! //First input
   let b = Int(readLine()!)! //Second input
@@ -11,8 +10,6 @@ func calculator() {
 }
 
 
-
-//Write your code below this line to make the above function calls work.
 func add(n1: Int, n2: Int) {
   print(n1 + n2)
 }
