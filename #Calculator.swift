@@ -1,6 +1,6 @@
 func calculator() {
-  let a = Int(readLine()!)! //First input
-  let b = Int(readLine()!)! //Second input
+  let a = Int(readLine()!)!  //First input
+  let b = Int(readLine()!)!  //Second input
   
   add(n1: a, n2: b)
   subtract(n1: a, n2: b)
