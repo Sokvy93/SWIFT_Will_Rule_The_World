@@ -1,0 +1,1 @@
+func greeting(name: String)
