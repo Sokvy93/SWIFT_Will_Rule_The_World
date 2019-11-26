@@ -13,7 +13,7 @@ func loveCalculator() {
     
     if loveScore > 80 {
         print("You love each other like Kanye loves Kanye")
-    } else if loveScore > 40 {
+    } if loveScore > 40 && loveScore <= 80 {
         print("You go together like COke and Mentos")
     } else {
         print("You'll be forever alone")
