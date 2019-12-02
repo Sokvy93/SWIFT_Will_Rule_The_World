@@ -1,4 +1,5 @@
 func calculator() {
+  
   let a = Int(readLine()!)!  //First input
   let b = Int(readLine()!)!  //Second input
   
