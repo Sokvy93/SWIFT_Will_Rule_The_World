@@ -1,3 +1,4 @@
+
 if trafficLight == "green" { 
     go() 
 } else if trafficLight == "amber" {
